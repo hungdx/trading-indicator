@@ -5,10 +5,6 @@ provide trading technical indicator values based on market data of almost crypto
 https://www.npmjs.com/package/trading-indicator
 
 
-
-[☕ Give me a coffee  :heart:](https://bscscan.com/address/0x9059f758e2d7ab314407cf6ae821b024e538c792) 
-
-
 ## Installation
 Node.js version 10 or later is required
 ```bash
